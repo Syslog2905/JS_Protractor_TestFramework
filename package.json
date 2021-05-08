@@ -39,7 +39,7 @@
     "core-js": "^2.5.7",
     "font-awesome": "^4.7.0",
     "intl": "^1.2.5",
-    "json-bigint": "^0.2.3",
+    "json-bigint": "^1.0.0",
     "moment": "^2.22.2",
     "npm": "^6.4.1",
     "primeng": "5.2.0",
