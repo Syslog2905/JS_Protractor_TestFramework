@@ -40,7 +40,7 @@
     "font-awesome": "^4.7.0",
     "intl": "^1.2.5",
     "json-bigint": "^0.2.3",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "npm": "^6.4.1",
     "primeng": "5.2.0",
     "ramda": "^0.25.0",
